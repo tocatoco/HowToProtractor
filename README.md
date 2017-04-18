@@ -12,8 +12,8 @@ Selenium local server 활용, Jasmine framework의 문법사용
 http://www.protractortest.org/#/  
 
 ## Protractor 필요 프로그램
-아래 프로그램들이 설치되어 있어야 합니다
-[Nodejs](https://nodejs.org/en/)  
+아래 프로그램들이 설치되어 있어야 합니다  
+[Nodejs](https://nodejs.org/en/)    
 [JAVA SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  
 
 ## Protractor 설치 및 테스트 준비
