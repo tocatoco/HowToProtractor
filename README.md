@@ -17,11 +17,11 @@ http://www.protractortest.org/#/
 [JAVA SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  
 
 ## Protractor 설치 및 테스트 준비
-protractor 설치  
+protractor 설치  
 `npm install -g protractor`  
 webdriver-manager 설치  
 `webdriver-manager update`  
 webdriver-manager 서버시작  
 `webdriver-manager start`  
 webdriver-manager 서버상태확인  
-[Sever status](http://localhost:4444/wd/hub)  
+Sever status 확인 (http://localhost:4444/wd/hub)  
