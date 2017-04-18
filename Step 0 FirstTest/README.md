@@ -32,4 +32,4 @@
 해당 파일들이 위치한 곳에서 실행  
 `protractor conf.js`  
 아래와 같은 결과를 볼 수 있다.  
-`1 tests, 1 assertion, 0 failures'
+`1 tests, 1 assertion, 0 failures`
