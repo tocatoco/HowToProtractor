@@ -1,5 +1,15 @@
 # HowToProtractor
-AngularJS Protractor 시작하기 
+AngularJS Protractor 시작하기  
+
+## AngularJS Protractor
+AngularJS Angular로 작성한 페이지만 테스트 가능  
+Protractor는 Angular와 AngularJS와 응용 프로그램을위한 end-to-end test framework  
+사용자 입장에서 실제 입력/출력/클릭등의 동작을 실제 브라우저에서 테스트를 자동화  
+Selenium local server 활용, Jasmine framework의 문법사용
+
+## 목표
+아래 사이트 참고하면서 작성해보고 익숙해지면 응용해 보려한다  
+http://www.protractortest.org/#/  
 
 ## 설치 확인
 [Nodejs](https://nodejs.org/en/)  
